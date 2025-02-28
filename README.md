@@ -13,7 +13,7 @@ Desenvolvedora Frontend apaixonada por tecnologia e inovação. Trabalho com tec
 
 
 ## 📊 Estatísticas do Wakatime
-[![wakatime](https://wakatime.com/badge/user/940cc86b-dae3-463d-9936-343766d81620.svg)](https://wakatime.com/@940cc86b-dae3-463d-9936-343766d81620)]
+[![wakatime](https://wakatime.com/badge/user/940cc86b-dae3-463d-9936-343766d81620.svg)](https://wakatime.com/@940cc86b-dae3-463d-9936-343766d81620)
 
 ## 📫 Contato
 - GitHub: [github.com/giselida](https://github.com/giselida)
