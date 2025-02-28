@@ -1,4 +1,4 @@
-# 🖥️ Giselida Cristine
+# 🖥️ Gisélida Cristine de Melo
 
 ## 👩‍💻 Sobre Mim
 Desenvolvedora Frontend apaixonada por tecnologia e inovação. Trabalho com tecnologias modernas para criar interfaces dinâmicas e responsivas. Sempre buscando aprimorar minhas habilidades e contribuir para projetos desafiadores.
